@@ -1,15 +1,22 @@
-# 1st Commercial Credit
+# Heaney-Investments
 
-**Engineering Organization Hub** — standards, templates, and automation starter assets.
+**Role:** investments
 
-## What lives here
-- Default community health files (CONTRIBUTING, SECURITY, SUPPORT, etc.)
-- Org-wide issue/PR templates
-- Starter workflow templates (Actions → New workflow)
-- References to shared CI/CD patterns and reusable workflows
+Part of the Chromatix Studios enterprise lattice. Every org in the
+lattice carries this same map so the estate is navigable from any door.
 
-## Getting started (new repo)
-1. Create from a template repository (preferred)
-2. Confirm repo custom properties (team, tier, data_sensitivity, runtime)
-3. Enable required workflows and status checks
-4. Follow PR + release conventions
+## Enterprise org lattice
+
+| Org | Role |
+|---|---|
+| [Chromatix-Studios](https://github.com/Chromatix-Studios) | product monorepo + nested chromatix_map |
+| [Diatonic-AI](https://github.com/Diatonic-AI) | services / client delivery / PLF |
+| [Diatonic-OS](https://github.com/Diatonic-OS) | runtime OS / Bifrost / cowork |
+| [sauce-technologies](https://github.com/sauce-technologies) | Sauce framework + gitops + DUSA kernel |
+| [diatonic-visuals-os](https://github.com/diatonic-visuals-os) | visuals brand reserved |
+| [Heaney-Investments](https://github.com/Heaney-Investments) | investments |
+| [saucetechnologies](https://github.com/saucetechnologies) | legacy alias |
+| [SauceTech](https://github.com/SauceTech) | legacy personal experiments |
+
+Canonical SSOT: `Chromatix-Studios/Chromatix_Studios` →
+`.chromatix/chromatix_map/00-canon/repository-migration-map.txt`
