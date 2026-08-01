@@ -1,5 +1,3 @@
 # Support
 
-For engineering support:
-- Open an issue using the Support Request template
-- Or contact the owning team (see CODEOWNERS / repo metadata)
+Open an issue in the relevant repository. For cross-org questions, see the org lattice in this org's profile README or contact drew@saucetech.io.
