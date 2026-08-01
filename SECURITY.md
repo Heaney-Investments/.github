@@ -1,13 +1,4 @@
 # Security Policy
 
-## Reporting a vulnerability
-Email: security@{YOUR_DOMAIN}
-
-Include:
-- Repo + affected component
-- Steps to reproduce
-- Impact assessment
-- Any suggested fix/patch
-
-## Coordinated disclosure
-We will acknowledge within 2 business days and provide a remediation plan.
+Report vulnerabilities privately to **drew@saucetech.io**.
+Do not open public issues for security reports. You will receive an acknowledgement within 72 hours.
